@@ -23,3 +23,6 @@ img {
     text-align: center;
     font-weight: bold;
 }
+.botao:hover {
+    background-color: red;
+}
