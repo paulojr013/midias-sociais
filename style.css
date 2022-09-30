@@ -23,14 +23,14 @@ section.celular {
     margin: auto;
 }
 iframe.tela {
-    width: 269px;
-    height: 477px;
+    width: 270px;
+    height: 476px;
     display: block;
     margin: auto;
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -49%);
+    transform: translate(-50%, -50%);
 }
 
 section.redes-sociais {
